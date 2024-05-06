@@ -1,2 +1,2 @@
 # ADOPackage
-基于ADO.NET封装mssql数据库访问类
+基于ADO.NET封装mssql数据库通用访问基类包含一个简单的测试案例
